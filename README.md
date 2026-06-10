@@ -89,18 +89,24 @@ Analyzed turbulent flow separation and convergence behavior using different disc
 ## 🎓 Education
 
 **University of Rostock**
-Bachelor’s/Master’s-level studies in Computational Engineering / CFD
-Focus: Aerodynamics, turbulence modeling, multiphase flows, numerical simulation
+Master’s of Science in Computational Science and Engineering
+Focus: Aerodynamics, turbulence modeling, multiphase flows, numerical simulation, data analytics, CFD Analysis, FEM Analytics
+
+**University of Engineering and Technology Taxila**
+Bachelor’s of Science in Mechanical Engineering
+Focus: Fiber Melat Laminates, Composite engineering, Aerodynamics, Fluid Dynamics, data analytics, FEM Analytics
 
 ---
 
 ## 🏅 Certifications
 
-* Project Management Foundations (LinkedIn Learning)
-* Data Analytics Foundations & Advanced Analytics (LinkedIn Learning)
+* Project Management Foundations
+* Data Analytics Foundations & Advanced Analytics
 * Predictive Analytics & Data Mining
 * Excel Data Analysis
 * Data Fluency & Visualization
+* Thriving in an AI Future
+* AI Agents for Everyday Professionals: Simple Automations to Speed Up Your Work (No Code Required)
 
 ---
 
@@ -123,9 +129,9 @@ Focus: Aerodynamics, turbulence modeling, multiphase flows, numerical simulation
 
 ## 📫 Connect with me
 
-* LinkedIn: (add your link here)
+* LinkedIn: (https://www.linkedin.com/in/ahmed-faraz-tariq/)
 * GitHub: (this profile)
-* Email: (optional)
+
 
 ---
 
