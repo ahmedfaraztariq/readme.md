@@ -138,7 +138,3 @@ Focus: Fiber Melat Laminates, Composite engineering, Aerodynamics, Fluid Dynamic
 ## 💡 GitHub Vision
 
 This profile showcases my transition from **pure simulation engineering → data-driven engineering systems**, combining physics, computation, and analytics into practical solutions.
-
----
-* Or create a **portfolio website version (React / Next.js)**
-* Or add **project repos structure + README for each project**
